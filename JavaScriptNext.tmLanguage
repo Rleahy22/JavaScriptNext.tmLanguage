@@ -1714,7 +1714,7 @@
 					<key>begin</key>
 					<string>(?x)
   (?:(?&lt;=
-    \.|\(|,|{|}|\[|;|,|&lt;|&gt;|&lt;=|&gt;=|==|!=|===|!==|\+|-|\*|%|\+\+|--|&lt;&lt;|&gt;&gt;|&gt;&gt;&gt;|&amp;|\||\^|!|~|&amp;&amp;|\|\||\?|:|=|\+=|-=|\*=|%=|&lt;&lt;=|&gt;&gt;=|&gt;&gt;&gt;=|&amp;=|\|=|\^=|/|/=|
+    \.|\(|,|{|}|\[|;|,|&lt;|&gt;|&lt;=|&gt;=|==|!=|===|!==|\+|-|\*|\$|%|\+\+|--|&lt;&lt;|&gt;&gt;|&gt;&gt;&gt;|&amp;|\||\^|!|~|&amp;&amp;|\|\||\?|:|=|\+=|-=|\*=|%=|&lt;&lt;=|&gt;&gt;=|&gt;&gt;&gt;=|&amp;=|\|=|\^=|/|/=|
     \Wnew|\Wdelete|\Wvoid|\Wtypeof|\Winstanceof|\Win|\Wdo|\Wreturn|\Wcase|\Wthrow|
     ^new|^delete|^void|^typeof|^instanceof|^in|^do|^return|^case|^throw
   )|^)\s*
